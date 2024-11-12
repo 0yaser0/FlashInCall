@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FlashInCall</string>
+    <string name="enable_flash_on_incoming_call">Enable Flash on Incoming Call</string>
+</resources>
