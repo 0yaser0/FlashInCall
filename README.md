@@ -38,7 +38,10 @@ The following permissions are required to allow the application to access the ne
 3. Build and run the app on an Android device with a flashlight.
 
 ## Demo Video
-[Demo Video](https://github.com/0yaser0/FlashNotificationApp)
+
+You can view/download the demo video here:
+
+[Download the video](https://github.com/0yaser0/FlashInCall/blob/master/github.mp4)
 
 ## License
 This project is licensed under the MIT License.
