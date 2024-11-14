@@ -39,9 +39,7 @@ The following permissions are required to allow the application to access the ne
 
 ## Demo Video
 
-You can view/download the demo video here:
-
-[Download the video](https://github.com/0yaser0/FlashInCall/blob/master/github.mp4)
+https://github.com/user-attachments/assets/70c78262-3c28-43a8-a4c8-fb1c733753d1
 
 ## License
 This project is licensed under the MIT License.
